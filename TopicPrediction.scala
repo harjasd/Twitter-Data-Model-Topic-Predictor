@@ -1,4 +1,4 @@
-package edu.ucr.cs.cs167.gyaye001
+package edu.ucr.cs.cs167.hdhal005
 
 import org.apache.spark.ml.Pipeline
 import org.apache.spark.ml.feature.{HashingTF, Tokenizer, StringIndexer}
